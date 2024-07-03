@@ -1,7 +1,7 @@
 #include <iostream>
 #include "ball.cpp"
 #include "cone.cpp"
-//#include "cylinder.cpp"
+#include "cylinder.cpp"
 #include "torus.cpp"
 
 using namespace std;
@@ -34,9 +34,9 @@ int main() {
             case 2:
                 showMenu2();
                 break;
-            // case 3:
-            //     showMenu3();
-            //     break;
+            case 3:
+                showMenu3();
+                break;
             case 4:
                 showMenu4();
                 break;
