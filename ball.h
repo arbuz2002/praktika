@@ -24,7 +24,7 @@ private:
     bool centered;
 };
 
-void showMenu();
+void showMenu1();
 
 #endif // BALL_H
 

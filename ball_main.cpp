@@ -1,7 +1,7 @@
 #include "ball.cpp"
 
 int main() {
-    showMenu();
+    showMenu1();
     return 0;
 }
 

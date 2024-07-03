@@ -68,7 +68,7 @@ double getValidNumber(bool allowNegative = false) {
     }
 }
 
-void showMenu() {
+void showMenu1() {
     Ball ball;
     int choice;
 

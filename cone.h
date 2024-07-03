@@ -35,7 +35,7 @@ public:
     void getBaseCenterCoordinates(double &x, double &y, double &z) const;
 };
 
-void showMenu();
+void showMenu2();
 bool inputDouble(double &value, bool allowZeroNegative = true);
 
 #endif // CONE_H

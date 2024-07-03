@@ -22,7 +22,7 @@ public:
     void getExtremePoints(double &xMin, double &xMax, double &yMin, double &yMax) const;
 };
 
-void showMenu();
+void showMenu4();
 bool getDoubleInput(const char* prompt, double &value);
 bool getPositiveDoubleInput(const char* prompt, double &value);
 

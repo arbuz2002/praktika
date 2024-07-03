@@ -63,7 +63,7 @@ bool getPositiveDoubleInput(const char* prompt, double &value) {
     return true;
 }
 
-void showMenu() {
+void showMenu4() {
     int choice;
     double R, r, cx, cy, cz;
     Torus* torus = nullptr;

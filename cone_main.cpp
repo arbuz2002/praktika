@@ -1,7 +1,7 @@
 #include "cone.cpp"
 
 int main() {
-    showMenu();
+    showMenu2();
     return 0;
 }
 

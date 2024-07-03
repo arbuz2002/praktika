@@ -1,7 +1,7 @@
 #include "torus.cpp"
 
 int main() {
-    showMenu();
+    showMenu4();
     return 0;
 }
 

@@ -134,7 +134,7 @@ bool inputDouble(double &value, bool allowZeroNegative) {
     return true;
 }
 
-void showMenu() {
+void showMenu2() {
     Cone cone;
     double choice;
 
