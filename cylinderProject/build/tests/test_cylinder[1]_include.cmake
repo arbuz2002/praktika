@@ -1,0 +1,5 @@
+if(EXISTS "/Users/romk1a/Documents/GitHub/praktika/cylinderProject/build/tests/test_cylinder[1]_tests.cmake")
+  include("/Users/romk1a/Documents/GitHub/praktika/cylinderProject/build/tests/test_cylinder[1]_tests.cmake")
+else()
+  add_test(test_cylinder_NOT_BUILT test_cylinder_NOT_BUILT)
+endif()

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libtorus_library.a CMakeFiles/torus_library.dir/torus.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libtorus_library.a

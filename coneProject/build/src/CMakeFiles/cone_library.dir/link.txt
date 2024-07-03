@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libcone_library.a CMakeFiles/cone_library.dir/cone.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libcone_library.a

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libcylinder_library.a CMakeFiles/cylinder_library.dir/cylinder.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libcylinder_library.a

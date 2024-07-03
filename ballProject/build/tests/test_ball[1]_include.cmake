@@ -1,0 +1,5 @@
+if(EXISTS "/Users/romk1a/Documents/GitHub/practica/ballProject/build/tests/test_ball[1]_tests.cmake")
+  include("/Users/romk1a/Documents/GitHub/practica/ballProject/build/tests/test_ball[1]_tests.cmake")
+else()
+  add_test(test_ball_NOT_BUILT test_ball_NOT_BUILT)
+endif()

@@ -1,0 +1,5 @@
+if(EXISTS "/Users/romk1a/Documents/GitHub/praktika/coneProject/build/tests/test_cone[1]_tests.cmake")
+  include("/Users/romk1a/Documents/GitHub/praktika/coneProject/build/tests/test_cone[1]_tests.cmake")
+else()
+  add_test(test_cone_NOT_BUILT test_cone_NOT_BUILT)
+endif()
